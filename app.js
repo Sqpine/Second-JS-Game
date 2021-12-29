@@ -1,10 +1,10 @@
 const links = [
-    'images\\1-circle.svg',
-    'images\\2-circle.svg',
-    'images\\3-circle.svg',
-    'images\\4-circle.svg',
-    'images\\5-circle.svg',
-    'images\\6-circle.svg'
+    '1-circle.svg',
+    '2-circle.svg',
+    '3-circle.svg',
+    '4-circle.svg',
+    '5-circle.svg',
+    '6-circle.svg'
 ]
 const colors = [
     '#FCCDBB',
